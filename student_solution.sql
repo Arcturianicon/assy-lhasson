@@ -1,2 +1,4 @@
-SELECT name, department, salary FROM employees WHERE department='IT' AND salary >= 55000;
-
+-- Write a query to return the student(s) with the highest score
+SELECT name, score
+FROM students
+WHERE score = (SELECT MAX(score) FROM students);
