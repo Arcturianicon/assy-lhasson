@@ -1,6 +1,5 @@
-CREATE TABLE employees (
+CREATE TABLE students (
     id INTEGER PRIMARY KEY,
     name TEXT,
-    department TEXT,
-    salary INTEGER
+    score INTEGER
 );
