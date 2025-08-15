@@ -1,0 +1,2 @@
+Bob|IT|60000
+Charlie|IT|55000
