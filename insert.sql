@@ -1,4 +1,4 @@
-INSERT INTO employees (name, department, salary) VALUES
-('Alice', 'HR', 50000),
-('Bob', 'IT', 60000),
-('Charlie', 'IT', 55000);
+INSERT INTO students (name, score) VALUES
+('Alice', 85),
+('Bob', 90),
+('Charlie', 78);
